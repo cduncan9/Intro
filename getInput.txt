@@ -1,0 +1,3 @@
+A way to get input is to use the command:
+
+input()
